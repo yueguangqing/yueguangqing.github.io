@@ -11,7 +11,7 @@ sections:
         IᴿMS
         Research Group
       image:
-        filename: welcome.jpg
+        filename: background.jpeg
       text: |
         <br>
         

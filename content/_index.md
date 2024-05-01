@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        IRMS
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **IRMS Research Group** designs, builds and optimizes intelligent manufacturing systems, aiming to address global manufacturing challenges in growing customization, digitalization, as well as social and environmental responsibility since its founding in 2024 at the Thrust of Smart Manufacturing, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou).
   
   - block: collection
     content:

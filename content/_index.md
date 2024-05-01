@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **IRMS Research Group** designs, builds and optimizes intelligent manufacturing systems, aiming to address global manufacturing challenges in growing customization, digitalization, as well as social and environmental responsibility since its founding in 2024 at the Thrust of Smart Manufacturing, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou).
+        **IRMS** is a research group led by Prof. Daqiang GUO (郭大强) at the Hong Kong University of Science and Technology (Guangzhou). We design, build and optimize intelligent manufacturing systems, aiming to address global manufacturing challenges in growing customization, digitalization, as well as social and environmental responsibility.
   
   - block: collection
     content:

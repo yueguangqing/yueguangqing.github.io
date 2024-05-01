@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Intelligent & Responsible Manufacturing Systems Research Group (I"\u00R"MS) # Website name
+title: Intelligent & Responsible Manufacturing Systems (I"\u00R"MS) Research Group # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################

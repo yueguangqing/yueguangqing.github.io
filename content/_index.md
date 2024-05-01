@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        IRMS
+        IᴿMS
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        **IRMS** is a research group led by Prof. Daqiang GUO (郭大强) at the Hong Kong University of Science and Technology (Guangzhou). We design, build and optimize intelligent manufacturing systems, aiming to address global manufacturing challenges in growing customization, digitalization, as well as social and environmental responsibility.
+        **IᴿMS** is a research group led by Prof. Daqiang GUO (郭大强) at the Hong Kong University of Science and Technology (Guangzhou). We design, build and optimize intelligent manufacturing systems, aiming to address global manufacturing challenges in growing customization, digitalization, as well as social and environmental responsibility.
   
   - block: collection
     content:
